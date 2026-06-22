@@ -1,96 +1,89 @@
-# Impact of Generative AI on Students
+# Behavioral Analysis of Generative AI Usage on Student Performance
 
 ## Overview
 
-This project analyzes how students use Generative AI and explores how that usage relates to academic outcomes and learning behavior.
+This project analyzes how Generative AI usage influences academic performance, learning retention, and student well-being using a dataset of 50,000 student records.
 
-Using exploratory data analysis (EDA), this project investigates patterns between Generative AI usage and factors such as GPA changes, skill retention, study habits, anxiety during exams, and burnout risk.
-
-The goal is to generate data-driven insights and better understand how different levels of AI usage are associated with student performance and learning outcomes.
+The goal is to understand whether AI tools improve learning outcomes and how usage patterns relate to GPA change, skill retention, and behavioral indicators such as anxiety and burnout.
 
 ---
 
-## Objectives
+## Key Research Questions
 
-* Clean and prepare the dataset for analysis.
-* Perform exploratory data analysis (EDA) to identify trends and relationships.
-* Create derived metrics such as GPA change to measure academic progress.
-* Analyze how Weekly Generative AI usage relates to GPA changes.
-* Investigate the relationship between AI usage and skill retention scores.
-* Compare outcomes across different student groups and behaviors.
-* Explore patterns related to anxiety, burnout risk, and AI dependency.
-* Visualize findings using charts and summary statistics.
-* Interpret results and draw conclusions from the analysis.
-* Strengthen Python and Pandas skills through real-world data analysis.
-* Build a portfolio-ready data analytics project.
+- Does Generative AI usage improve GPA?
+- Is there an optimal range of AI usage for academic performance?
+- How does AI usage affect skill retention?
+- Does AI dependency relate to burnout and anxiety?
+- Does prompt engineering skill influence academic outcomes?
 
 ---
 
-## Dataset Features
-
-The dataset contains 50,000 student records and includes:
-
-### Academic Information
-
-* Pre Semester GPA
-* Post Semester GPA
-* Major Category
-* Year of Study
-
-### AI Usage Behavior
-
-* Weekly Generative AI Hours
-* Primary Use Case
-* Prompt Engineering Skill
-* Tool Diversity
-* Paid Subscription
-
-### Study and Learning Metrics
-
-* Traditional Study Hours
-* Skill Retention Score
-* Perceived AI Dependency
-
-### Student Well-being
-
-* Anxiety Level During Exams
-* Burnout Risk Level
-* Institutional Policy
+# Key Visualizations & Insights
 
 ---
 
-## Technologies Used
+## 1. AI Usage vs GPA Change
 
-* Python
-* Pandas
-* Jupyter Notebook
-* Matplotlib
+![AI vs GPA](images/AI_Usage_vs_GPA_Change.png)
 
----
-
-## Key Questions
-
-* Does moderate Generative AI usage relate to higher GPA improvement?
-* Does increased AI usage affect skill retention?
-* Is there a relationship between AI dependency and burnout risk?
-* Do traditional study habits still influence outcomes?
-* How do different student groups respond to AI usage?
+Moderate AI usage is associated with the highest GPA improvement, while excessive usage shows diminishing returns.
 
 ---
 
-## Key Findings
-* Moderate Generative AI usage (8–16 hours/week) is associated with the highest GPA improvement.
-* Traditional study hours show a stronger correlation with GPA change than AI usage.
-* Students with stronger prompt engineering skills tend to achieve higher GPA improvements.
-* AI dependency shows a weak relationship with anxiety and burnout indicators.
-* Skill retention has only a weak negative relationship with AI usage.
+## 2. AI Usage vs Skill Retention
+
+![Skill Retention](images/ai_vs_skill_retention.png)
+
+Skill retention shows a weak relationship with AI usage, suggesting that usage alone does not strongly determine learning retention.
 
 ---
 
-## Conclusion
+## 3. Prompt Engineering Skill vs GPA
 
-This analysis suggests that Generative AI functions best as a supporting learning tool rather than a replacement for traditional studying.
+![Prompt Skill](images/gpa_by_prompt_skill.png)
 
-Moderate usage of AI tools is associated with better academic performance, while excessive usage shows diminishing returns. Traditional study habits remain the strongest predictor of academic improvement.
+Students with stronger prompt engineering skills tend to achieve higher GPA improvements, indicating that skill in using AI matters more than usage volume.
 
-Overall, AI usage influences student outcomes, but its impact is secondary to consistent study behavior and learning discipline.
+---
+
+## 4. Burnout Risk vs AI Dependency
+
+![Burnout](images/burnout_vs_ai_dependency.png)
+
+Higher burnout levels show a weak association with increased AI dependency, suggesting possible reliance on AI during academic stress.
+
+---
+
+## 5. Anxiety vs AI Usage
+
+![Anxiety](images/anxiety_vs_ai_usage.png)
+
+Students with higher anxiety levels tend to use Generative AI slightly more, indicating a weak relationship between stress and AI usage.
+
+---
+
+## 6. Year of Study vs AI Dependency and GPA
+
+![Year Analysis](images/year_ai_dependency_gpa.png)
+
+The impact of AI dependency on GPA varies across academic years, suggesting that student experience influences how AI affects learning outcomes.
+
+---
+
+# Key Findings
+
+- Moderate AI usage (8–16 hours/week) is associated with the highest GPA improvement  
+- Prompt engineering skill is a strong predictor of academic success  
+- AI dependency alone is not a strong predictor of GPA  
+- Skill retention is only weakly affected by AI usage  
+- Anxiety and burnout show weak behavioral relationships with AI usage  
+
+---
+
+# Conclusion
+
+Generative AI acts as a supporting learning tool rather than a replacement for traditional studying.
+
+The effectiveness of AI depends more on how it is used rather than how much it is used. Students with stronger prompting skills benefit more, while excessive usage shows diminishing returns.
+
+Traditional study habits remain a strong predictor of academic performance.
