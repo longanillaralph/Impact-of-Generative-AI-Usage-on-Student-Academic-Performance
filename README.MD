@@ -34,7 +34,7 @@ Moderate AI usage is associated with the highest GPA improvement, while excessiv
 
 ![Skill Retention](images/ai_vs_skill_retention.png)
 
-Skill retention shows a weak relationship with AI usage, suggesting that usage alone does not strongly determine learning retention.
+Students with Higher AI Usage tends to have a Lower Retention Score
 
 ---
 
@@ -50,7 +50,7 @@ Students with stronger prompt engineering skills tend to achieve higher GPA impr
 
 ![Burnout](images/burnout_vs_ai_dependency.png)
 
-Higher burnout levels show a weak association with increased AI dependency, suggesting possible reliance on AI during academic stress.
+Higher AI Dependency risks Burnout
 
 ---
 
@@ -75,8 +75,8 @@ The impact of AI dependency on GPA varies across academic years, suggesting that
 - Moderate AI usage (8–16 hours/week) is associated with the highest GPA improvement  
 - Prompt engineering skill is a strong predictor of academic success  
 - AI dependency alone is not a strong predictor of GPA  
-- Skill retention is only weakly affected by AI usage  
-- Anxiety and burnout show weak behavioral relationships with AI usage  
+- Skill retention is only Strongly affected by AI usage  
+- Anxiety and burnout show Strong behavioral relationships with AI usage  
 
 ---
 
