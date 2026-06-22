@@ -75,8 +75,8 @@ The impact of AI dependency on GPA varies across academic years, suggesting that
 - Moderate AI usage (8–16 hours/week) is associated with the highest GPA improvement  
 - Prompt engineering skill is a strong predictor of academic success  
 - AI dependency alone is not a strong predictor of GPA  
-- Skill retention is only weakly affected by AI usage  
-- Anxiety and burnout show weak behavioral relationships with AI usage  
+- Skill retention is only Strongly affected by AI usage  
+- Anxiety and burnout show Strong behavioral relationships with AI usage  
 
 ---
 
