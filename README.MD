@@ -77,3 +77,20 @@ The dataset contains 50,000 student records and includes:
 * How do different student groups respond to AI usage?
 
 ---
+
+## Key Findings
+* Moderate Generative AI usage (8–16 hours/week) is associated with the highest GPA improvement.
+* Traditional study hours show a stronger correlation with GPA change than AI usage.
+* Students with stronger prompt engineering skills tend to achieve higher GPA improvements.
+* AI dependency shows a weak relationship with anxiety and burnout indicators.
+* Skill retention has only a weak negative relationship with AI usage.
+
+---
+
+## Conclusion
+
+This analysis suggests that Generative AI functions best as a supporting learning tool rather than a replacement for traditional studying.
+
+Moderate usage of AI tools is associated with better academic performance, while excessive usage shows diminishing returns. Traditional study habits remain the strongest predictor of academic improvement.
+
+Overall, AI usage influences student outcomes, but its impact is secondary to consistent study behavior and learning discipline.
