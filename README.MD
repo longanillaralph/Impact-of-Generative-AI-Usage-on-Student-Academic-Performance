@@ -34,7 +34,7 @@ Moderate AI usage is associated with the highest GPA improvement, while excessiv
 
 ![Skill Retention](images/ai_vs_skill_retention.png)
 
-Skill retention shows a weak relationship with AI usage, suggesting that usage alone does not strongly determine learning retention.
+Students with Higher AI Usage tends to have a Lower Retention Score
 
 ---
 
