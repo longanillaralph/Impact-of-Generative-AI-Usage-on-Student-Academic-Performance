@@ -50,7 +50,7 @@ Students with stronger prompt engineering skills tend to achieve higher GPA impr
 
 ![Burnout](images/burnout_vs_ai_dependency.png)
 
-Students who have a high AI Dependency also have High Burnout risk
+Higher AI Dependency risks Burnout
 
 ---
 
